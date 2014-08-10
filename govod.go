@@ -18,7 +18,7 @@ package main
 import (
 	"os"
 	"log"
-	"encoding/json"
+	//"encoding/json"
 	"fmt"
 	"github.com/oikomi/gomp4/mp4"
 )
